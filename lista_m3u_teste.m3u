@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 group-title="CLARO TV 2",A&E
+http://189.91.128.146:4444/udp/227.10.20.129:1234
+#EXTINF:-1 group-title="CLARO TV 2",AgroMinas TV
+http://189.91.128.146:4444/udp/227.10.20.108:1234
+#EXTINF:-1 group-title="CLARO TV 2",AgroMinas TV
+http://189.91.128.146:4444/udp/227.10.20.175:1234
+#EXTINF:-1 group-title="CLARO TV 2",Band News
+http://189.91.128.146:4444/udp/227.10.20.131:1234
+#EXTINF:-1 group-title="CLARO TV 2",BLOOMBERG HD
+http://189.91.128.146:4444/udp/227.10.20.161:1234
+#EXTINF:-1 group-title="CLARO TV 2",Canal Rural
+http://189.91.128.146:4444/udp/227.10.20.125:1234
+#EXTINF:-1 group-title="CLARO TV 2",CCTV
+http://189.91.128.146:4444/udp/227.10.20.144:1234
+#EXTINF:-1 group-title="CLARO TV 2",Cine Brasil
+http://189.91.128.146:4444/udp/227.10.20.171:1234
+#EXTINF:-1 group-title="CLARO TV 2",CINEMAX
+http://189.91.128.146:4444/udp/227.10.20.101:1234
+#EXTINF:-1 group-title="CLARO TV 2",CLIMATEMPO HD
+http://189.91.128.146:4444/udp/227.10.20.176:1234
+#EXTINF:-1 group-title="CLARO TV 2",CNN BR HD
+http://189.91.128.146:4444/udp/227.10.20.160:1234
+#EXTINF:-1 group-title="CLARO TV 2",CNN Int.
+http://189.91.128.146:4444/udp/227.10.20.168:1234
+#EXTINF:-1 group-title="CLARO TV 2",CNT ISDB TV HD
+http://189.91.128.146:4444/udp/227.10.20.111:1234
+#EXTINF:-1 group-title="CLARO TV 2",Disc. Kids
+http://189.91.128.146:4444/udp/227.10.20.83:1234
+#EXTINF:-1 group-title="CLARO TV 2",Discovery Home
+http://189.91.128.146:4444/udp/227.10.20.85:1234
+#EXTINF:-1 group-title="CLARO TV 2",Discovery Scien
+http://189.91.128.146:4444/udp/227.10.20.177:1234
+#EXTINF:-1 group-title="CLARO TV 2",Disney Channel
+http://189.91.128.146:4444/udp/227.10.20.90:1234
+#EXTINF:-1 group-title="CLARO TV 2",DISNEY ðŸ˜† HD
+http://189.91.128.146:4444/udp/227.10.20.110:1234
+#EXTINF:-1 group-title="CLARO TV 2" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/LigaPortugalbwin.png",ESPN
+http://189.91.128.146:4444/udp/227.10.20.81:1234
+#EXTINF:-1 group-title="CLARO TV 2",ESPN HD
+http://189.91.128.146:4444/udp/227.10.20.152:1234
+#EXTINF:-1 group-title="CLARO TV 2",ESPN Int.
+http://189.91.128.146:4444/udp/227.10.20.86:1234
+#EXTINF:-1 group-title="CLARO TV 2",FISHTV-HD
+http://189.91.128.146:4444/udp/227.10.20.117:1234
+#EXTINF:-1 group-title="CLARO TV 2",FOX Sports 2
+http://189.91.128.146:4444/udp/227.10.20.132:1234
+#EXTINF:-1 group-title="CLARO TV 2",Futura HD
+http://189.91.128.146:4444/udp/227.10.20.165:1234
+#EXTINF:-1 group-title="CLARO TV 2",FX HD
+http://189.91.128.146:4444/udp/227.10.20.138:1234
+#EXTINF:-1 group-title="CLARO TV 2",Gloob
+http://189.91.128.146:4444/udp/227.10.20.91:1234
+#EXTINF:-1 group-title="CLARO TV 2",HBO
+http://189.91.128.146:4444/udp/227.10.20.94:1234
+#EXTINF:-1 group-title="CLARO TV 2",HBO FAMILY
+http://189.91.128.146:4444/udp/227.10.20.97:1234
+#EXTINF:-1 group-title="CLARO TV 2",HBO PLUS
+http://189.91.128.146:4444/udp/227.10.20.96:1234
+#EXTINF:-1 group-title="CLARO TV 2",HBO SIGNATURE
+http://189.91.128.146:4444/udp/227.10.20.98:1234
+#EXTINF:-1 group-title="CLARO TV 2",HBO2
+http://189.91.128.146:4444/udp/227.10.20.95:1234
+#EXTINF:-1 group-title="CLARO TV 2",HISTORY HD
+http://189.91.128.146:4444/udp/227.10.20.130:1234
+#EXTINF:-1 group-title="CLARO TV 2",ID
+http://189.91.128.146:4444/udp/227.10.20.93:1234
+#EXTINF:-1 group-title="CLARO TV 2",IDEAL TV HD
+http://189.91.128.146:4444/udp/227.10.20.143:1234
+#EXTINF:-1 group-title="CLARO TV 2",INTER TV HD
+http://189.91.128.146:4444/udp/227.10.20.109:1234
+#EXTINF:-1 group-title="CLARO TV 2",N/A HD
+http://189.91.128.146:4444/udp/227.10.20.133:1234
+#EXTINF:-1 group-title="CLARO TV 2",nick jr.
+http://189.91.128.146:4444/udp/227.10.20.167:1234
+#EXTINF:-1 group-title="CLARO TV 2",NIKBR-HD
+http://189.91.128.146:4444/udp/227.10.20.149:1234
+#EXTINF:-1 group-title="CLARO TV 2",PMCBR-HD
+http://189.91.128.146:4444/udp/227.10.20.140:1234
+#EXTINF:-1 group-title="CLARO TV 2",Prime SD
+http://189.91.128.146:4444/udp/227.10.20.114:1234
+#EXTINF:-1 group-title="CLARO TV 2",RADIO SERTANEJA
+http://189.91.128.146:4444/udp/227.10.20.141:1234
+#EXTINF:-1 group-title="CLARO TV 2",Rai
+http://189.91.128.146:4444/udp/227.10.20.174:1234
+#EXTINF:-1 group-title="CLARO TV 2",RBI
+http://189.91.128.146:4444/udp/227.10.20.173:1234
+#EXTINF:-1 group-title="CLARO TV 2",Record News
+http://189.91.128.146:4444/udp/227.10.20.170:1234
+#EXTINF:-1 group-title="CLARO TV 2",Rede TV
+http://189.91.128.146:4444/udp/227.10.20.122:1234
+#EXTINF:-1 group-title="CLARO TV 2",RedeTV!1 HD
+http://189.91.128.146:4444/udp/227.10.20.164:1234
+#EXTINF:-1 group-title="CLARO TV 2",RTPi
+http://189.91.128.146:4444/udp/227.10.20.146:1234
+#EXTINF:-1 group-title="CLARO TV 2",SBT HD
+http://189.91.128.146:4444/udp/227.10.20.120:1234
+#EXTINF:-1 group-title="CLARO TV 2",SHOPTIME HD
+http://189.91.128.146:4444/udp/227.10.20.162:1234
+#EXTINF:-1 group-title="CLARO TV 2",SONY HD
+http://189.91.128.146:4444/udp/227.10.20.127:1234
+#EXTINF:-1 group-title="CLARO TV 2",Studio Universal
+http://189.91.128.146:4444/udp/227.10.20.88:1234
+#EXTINF:-1 group-title="CLARO TV 2",TBS
+http://189.91.128.146:4444/udp/227.10.20.166:1234
+#EXTINF:-1 group-title="CLARO TV 2",TC Action HD
+http://189.91.128.146:4444/udp/227.10.20.135:1234
+#EXTINF:-1 group-title="CLARO TV 2",TC Pipoca HD
+http://189.91.128.146:4444/udp/227.10.20.87:1234
+#EXTINF:-1 group-title="CLARO TV 2",TC Premium HD
+http://189.91.128.146:4444/udp/227.10.20.134:1234
+#EXTINF:-1 group-title="CLARO TV 2",TC Touch HD
+http://189.91.128.146:4444/udp/227.10.20.136:1234
+#EXTINF:-1 group-title="CLARO TV 2",Terra Viva
+http://189.91.128.146:4444/udp/227.10.20.142:1234
+#EXTINF:-1 group-title="CLARO TV 2",TLC
+http://189.91.128.146:4444/udp/227.10.20.84:1234
+#EXTINF:-1 group-title="CLARO TV 2",TV 5 HD
+http://189.91.128.146:4444/udp/227.10.20.163:1234
+#EXTINF:-1 group-title="CLARO TV 2",TV Record
+http://189.91.128.146:4444/udp/227.10.20.147:1234
+#EXTINF:-1 group-title="CLARO TV 2",TV RIO DOCE HD
+http://189.91.128.146:4444/udp/227.10.20.145:1234
+#EXTINF:-1 group-title="CLARO TV 2",TVLESTE HD
+http://189.91.128.146:4444/udp/227.10.20.151:1234
+#EXTINF:-1 group-title="CLARO TV 2",UNIVALE TV
+http://189.91.128.146:4444/udp/227.10.20.103:1234
+#EXTINF:-1 group-title="CLARO TV 2",WooHoo
+http://189.91.128.146:4444/udp/227.10.20.112:1234
